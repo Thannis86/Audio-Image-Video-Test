@@ -1,0 +1,79 @@
+body {
+  background-image: url("https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?cs=srgb&dl=pexels-thatguycraig000-1563356.jpg&fm=jpg");
+  background-size: 100%;
+}
+
+.vdo1 {
+  display: flex;
+  position: fixed;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  height: 20rem;
+  right: 40%;
+  bottom: 40%;
+}
+
+#btn0 {
+  display: flex;
+  position: fixed;
+  background-color: #ab4459;
+  color: #441752;
+  border: solid, 0.1rem, #ab4459;
+  color: white;
+  font-size: 4rem;
+}
+
+#btn1 {
+  display: none;
+  position: fixed;
+  background-color: #ab4459;
+  color: #441752;
+  border: solid, 0.1rem, #ab4459;
+  right: 25px;
+  color: white;
+  font-size: 4rem;
+}
+
+#btn2 {
+  display: none;
+  position: fixed;
+  background-color: #ab4459;
+  color: #441752;
+  border: solid, 0.1rem, #ab4459;
+  right: 25px;
+  bottom: 25px;
+  color: white;
+  font-size: 4rem;
+}
+#btn3 {
+  display: none;
+  position: fixed;
+  background-color: #ab4459;
+  color: #441752;
+  border: solid, 0.1rem, #ab4459;
+  bottom: 25px;
+  color: white;
+  font-size: 4rem;
+}
+
+#btn4 {
+  display: none;
+  position: fixed;
+  background-color: #ab4459;
+  color: #441752;
+  border: solid, 0.1rem, #ab4459;
+  color: white;
+  font-size: 4rem;
+}
+
+#btn5 {
+  display: none;
+  position: fixed;
+  background-color: #ab4459;
+  color: #441752;
+  border: solid, 0.1rem, #ab4459;
+  right: 50%;
+  bottom: 50%;
+  color: white;
+  font-size: 4rem;
+}
